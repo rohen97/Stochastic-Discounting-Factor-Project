@@ -1,7 +1,6 @@
 # Stochastic-Discounting-Factor-Project
 
 
-
 # Suppose that consumption growth has lognormal distribution with the possibility of rare disasters:
 
 
@@ -22,3 +21,4 @@
 
 # Find the smallest value of γ (in your data) for which σM/μM > 0.4. Explain (in words, without using mathematical equations or formulas) 
 # the economic significance of this result.
+
